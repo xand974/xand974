@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @xand974
-- 👀 I’m interested in game/mobile app dev
-- 🌱 I’m currently learning C#, javascript, html, css
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Alexandre Malet
+- 👀 I’m interested in game/mobile/web dev
+- 🌱 I’m currently learning C#, javascript, html, css, ejs, jQuery, MongoDb
+- 💞️ I’m looking to collaborate on everything !!
+- 📫 How to reach me xand974@gmail.com
 
 <!---
 xand974/xand974 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
