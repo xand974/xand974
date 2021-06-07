@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alexandre Malet
 - 👀 I’m interested in game/mobile/web dev
-- 🌱 I’m currently learning C#, javascript, html, css, ejs, jQuery, MongoDb (Mongoose), React.js
+- 🌱 I’m currently learning C#, javascript, html, Css, Ejs, jQuery, MongoDb (Mongoose), React.js , MongoDb , Mongoose
 - 💞️ I’m looking to collaborate on everything !!
 - 📫 You can reach me at xand974@gmail.com
 - I took some notes about my courses : check this out !
